@@ -1,6 +1,5 @@
 import { Injectable } from '@nestjs/common';
 import * as crypto from 'crypto';
-import { response } from 'express';
 
 import { EncryptionInterface } from './interfaces/encryption.interface';
 
